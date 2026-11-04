@@ -1,0 +1,8 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# chat sessions and hand-off tickets created while you run the agent
+runtime/
